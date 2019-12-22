@@ -131,6 +131,7 @@ body{
 
 .tileContainer{
     position: relative;
+    cursor: pointer;
 }
 
 .tileTitle{
