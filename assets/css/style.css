@@ -85,7 +85,7 @@ body{
 }
 
 #aboutImg{
-    margin: 25px 20px 0px 5%;
+    margin: 20px 30px 0px 5%;
     width: 25%;
     float: left;
 }
@@ -105,7 +105,7 @@ body{
 #containerText{
     margin: 0 5% 0 5%;
     font-size: 14px;
-    line-height: 1.75;
+    line-height: 2;
 }
 
 #contactMessage{
